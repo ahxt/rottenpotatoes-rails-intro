@@ -1,0 +1,2 @@
+http://github.com/ahxt/rottenpotatoes-rails-intro
+http://secret-ridge-23276.herokuapp.com
