@@ -32,6 +32,7 @@ class MoviesController < ApplicationController
     end
     
     
+    
     # code for Part 3
     if params[:sort] != session[:sort] or params[:ratings] != session[:ratings]
       session[:sort]      = sort
